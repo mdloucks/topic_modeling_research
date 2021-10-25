@@ -31,9 +31,6 @@ score_sum = sum(user_score.values())
 print("total users ", total_user_num)
 
 largest = max([score for hub, score in hubs.items()])
-print(largest)
-print(hubs)
-quit()
 
 # 전체 유저 분석!
 tdm = dok_matrix((len(data['posts']), len(voca)), dtype=np.float32)
