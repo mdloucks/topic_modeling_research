@@ -29,9 +29,6 @@ score_sum = sum(user_score.values())
 
 print("total users ", total_user_num)
 
-largest = max([score for hub, score in hubs.items()])
-
-
 # ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 # Construct the term document matrix for the NMF topic modeling.
 # 
