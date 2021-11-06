@@ -1,3 +1,7 @@
 venv/
 data/
 .vscode/
+nltk_data/*
+nltk_data/
+*.pkl
+*.tsv
