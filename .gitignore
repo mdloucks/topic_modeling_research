@@ -6,3 +6,4 @@ nltk_data/
 *.pkl
 *.tsv
 preprocessed_bitcoin.pkl
+preprocessed_bitcoin.pkl
