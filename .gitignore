@@ -1,9 +1,8 @@
 venv/
-data/
+data/*
 .vscode/
 nltk_data/*
 nltk_data/
-*.pkl
 *.tsv
-preprocessed_bitcoin.pkl
-preprocessed_bitcoin.pkl
+*.pkl
+.ipynb_checkpoints
