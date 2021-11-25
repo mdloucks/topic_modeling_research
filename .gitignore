@@ -4,5 +4,5 @@ data/*
 nltk_data/*
 nltk_data/
 *.tsv
-*.pkl
 .ipynb_checkpoints
+preprocessed_bitcoin.pkl

@@ -9,3 +9,10 @@ Current dataset -> https://drive.google.com/drive/folders/10veMPAheyx5eJpkyyJeCz
 data/BTC/bitcoin_price.csv -> https://www.kaggle.com/mczielinski/bitcoin-historical-data
 
 
+<h2>NMF</h2>
+
+<p>
+Our data is composed of a variety of different "signals." Each of these signals contributes to
+our data in its own unique way and NMF allows us to reveal them. We can think of our data as being
+the sum of all these signals, with the signals being the topics. 
+</p>
