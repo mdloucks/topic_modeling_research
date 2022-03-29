@@ -6,3 +6,13 @@ nltk_data/
 *.tsv
 .ipynb_checkpoints
 *.pkl
+example.html
+pkl/preprocessed_bitcoin.pkl.tar.gz
+util/__pycache__/streamer.cpython-38.pyc
+util/__pycache__/util.cpython-38.pyc
+visualization/id_table.png
+visualization/maj_users_wordcloud.png
+visualization/network_visualization.png
+visualization/top_users_wordcloud.png
+util/__pycache__/util.cpython-38.pyc
+util/__pycache__/streamer.cpython-38.pyc
