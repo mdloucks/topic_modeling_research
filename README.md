@@ -1,5 +1,7 @@
 # topic_modeling_research
 
+Link to published IEEE paper -> https://ieeexplore.ieee.org/document/10124009
+
 This repository was forked from -> https://github.com/Kyeongpil/opinion-leader-analysis
 
 Reference to original paper -> https://journals.sagepub.com/doi/pdf/10.1177/0894439319840716
@@ -7,7 +9,6 @@ Reference to original paper -> https://journals.sagepub.com/doi/pdf/10.1177/0894
 Current dataset -> https://drive.google.com/drive/folders/10veMPAheyx5eJpkyyJeCzQJiKUca2JlS?usp=sharing
 
 data/BTC/bitcoin_price.csv -> https://www.kaggle.com/mczielinski/bitcoin-historical-data
-
 
 <h2>NMF</h2>
 
